@@ -111,7 +111,7 @@
     "eslint": "^7.22.0",
     "mocha": "^8.3.2",
     "mock-stdin": "^1.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "pixelmatch": "^5.2.1",
     "playwright": "^1.9.2",
     "pngjs": "^6.0.0",
